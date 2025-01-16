@@ -47,12 +47,22 @@ The application fulfills these core requirements:
    ```bash
    git clone https://github.com/your-username/fundamental-cell-excel-spreadsheet-project.git
    cd fundamental-cell-excel-spreadsheet-project
-
+   ```
 2. Build the project using CMake:
+
+- Create a build/ directory to keep the build artifacts separate:
+  ```bash
   mkdir build
   cd build
+  ```
+- Run CMake to configure the project using the CMakeLists.txt file in the root directory:
+  ```bash  
   cmake ..
-  make
+  ```
+- After configuring the project, build it using:
+  ```bash
+  cmake --build
+  ```
 
 ## Design and Implementation
 - Data Structures:
