@@ -41,7 +41,7 @@ The application fulfills these core requirements:
 - **`testrunner.c` & `testrunner.h`**: Support code for running automated tests.  
 - **`tests.c` & `tests.h`**: Unit tests for the spreadsheet features.
 
-## Usage
+## Usage/Setup
 
 1. Clone the repository:  
    ```bash
