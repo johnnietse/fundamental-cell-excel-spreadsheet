@@ -1,0 +1,26 @@
+[
+{
+  "directory": "C:/Users/Johnnie/Downloads/Tse_ELEC278_Code_Excel_Spreadsheet/Tse_ELEC278_Code/build",
+  "command": "C:\\Users\\Johnnie\\DOWNLO~1\\MINGW6~1.0(2\\mingw64\\bin\\gcc.exe   -g -std=gnu11 -o CMakeFiles\\model.dir\\model.c.obj -c C:\\Users\\Johnnie\\Downloads\\Tse_ELEC278_Code_Excel_Spreadsheet\\Tse_ELEC278_Code\\model.c",
+  "file": "C:/Users/Johnnie/Downloads/Tse_ELEC278_Code_Excel_Spreadsheet/Tse_ELEC278_Code/model.c",
+  "output": "CMakeFiles/model.dir/model.c.obj"
+},
+{
+  "directory": "C:/Users/Johnnie/Downloads/Tse_ELEC278_Code_Excel_Spreadsheet/Tse_ELEC278_Code/build",
+  "command": "C:\\Users\\Johnnie\\DOWNLO~1\\MINGW6~1.0(2\\mingw64\\bin\\gcc.exe  @CMakeFiles/interactive.dir/includes_C.rsp -g -std=gnu11 -o CMakeFiles\\interactive.dir\\interface.c.obj -c C:\\Users\\Johnnie\\Downloads\\Tse_ELEC278_Code_Excel_Spreadsheet\\Tse_ELEC278_Code\\interface.c",
+  "file": "C:/Users/Johnnie/Downloads/Tse_ELEC278_Code_Excel_Spreadsheet/Tse_ELEC278_Code/interface.c",
+  "output": "CMakeFiles/interactive.dir/interface.c.obj"
+},
+{
+  "directory": "C:/Users/Johnnie/Downloads/Tse_ELEC278_Code_Excel_Spreadsheet/Tse_ELEC278_Code/build",
+  "command": "C:\\Users\\Johnnie\\DOWNLO~1\\MINGW6~1.0(2\\mingw64\\bin\\gcc.exe   -g -std=gnu11 -o CMakeFiles\\testrunner.dir\\testrunner.c.obj -c C:\\Users\\Johnnie\\Downloads\\Tse_ELEC278_Code_Excel_Spreadsheet\\Tse_ELEC278_Code\\testrunner.c",
+  "file": "C:/Users/Johnnie/Downloads/Tse_ELEC278_Code_Excel_Spreadsheet/Tse_ELEC278_Code/testrunner.c",
+  "output": "CMakeFiles/testrunner.dir/testrunner.c.obj"
+},
+{
+  "directory": "C:/Users/Johnnie/Downloads/Tse_ELEC278_Code_Excel_Spreadsheet/Tse_ELEC278_Code/build",
+  "command": "C:\\Users\\Johnnie\\DOWNLO~1\\MINGW6~1.0(2\\mingw64\\bin\\gcc.exe   -g -std=gnu11 -o CMakeFiles\\testrunner.dir\\tests.c.obj -c C:\\Users\\Johnnie\\Downloads\\Tse_ELEC278_Code_Excel_Spreadsheet\\Tse_ELEC278_Code\\tests.c",
+  "file": "C:/Users/Johnnie/Downloads/Tse_ELEC278_Code_Excel_Spreadsheet/Tse_ELEC278_Code/tests.c",
+  "output": "CMakeFiles/testrunner.dir/tests.c.obj"
+}
+]
