@@ -60,8 +60,8 @@ The application fulfills these core requirements:
   cmake ..
   ```
 - After configuring the project, build it using:
-  ```bash
-  cmake --build
+  ```bash  
+  cmake --build .
   ```
 
 ## Design and Implementation
