@@ -45,7 +45,7 @@ The application fulfills these core requirements:
 
 1. Clone the repository:  
    ```bash
-   git clone https://github.com/your-username/fundamental-cell-excel-spreadsheet-project.git
+   git clone https://github.com/johnnietse/fundamental-cell-excel-spreadsheet-project.git
    cd fundamental-cell-excel-spreadsheet-project
    ```
 2. Build the project using CMake:
