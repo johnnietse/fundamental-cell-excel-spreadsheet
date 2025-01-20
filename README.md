@@ -43,6 +43,13 @@ The application fulfills these core requirements:
 
 ## Usage/Setup
 
+**Before cloning the repository, change your working directory to the folder where you want the project to be saved:**
+
+Navigate to the directory where you want to store the project:
+```bash
+cd /path/to/your/directory
+```
+
 1. Clone the repository:  
    ```bash
    git clone https://github.com/johnnietse/fundamental-cell-excel-spreadsheet-project.git
