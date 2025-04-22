@@ -87,3 +87,8 @@ Comprehensive tests validate the following:
 - Proper formula parsing and evaluation.
 - Dynamic updates for dependent cells.
 - Robust error handling.
+
+---
+
+## 📸 Screenshot
+![Fundamental-cell-excel-spreadsheet](https://github.com/user-attachments/assets/aa722b36-39ef-4b66-95c4-24ba89b1972b)
