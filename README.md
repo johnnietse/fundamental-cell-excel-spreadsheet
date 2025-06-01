@@ -51,25 +51,25 @@ cd /path/to/your/directory
 ```
 
 1. Clone the repository:  
-   ```bash
-   git clone https://github.com/johnnietse/fundamental-cell-excel-spreadsheet-project.git
-   cd fundamental-cell-excel-spreadsheet-project
-   ```
+```bash
+git clone https://github.com/johnnietse/fundamental-cell-excel-spreadsheet-project.git
+cd fundamental-cell-excel-spreadsheet-project
+```
 2. Build the project using CMake:
 
 - Create a build/ directory to keep the build artifacts separate:
-  ```bash
-  mkdir build
-  cd build
-  ```
+```bash
+mkdir build
+cd build
+```
 - Run CMake to configure the project using the CMakeLists.txt file in the root directory:
-  ```bash  
-  cmake ..
-  ```
+```bash  
+cmake ..
+```
 - After configuring the project, build it using:
-  ```bash  
-  cmake --build .
-  ```
+```bash  
+cmake --build .
+```
 
 ## Design and Implementation
 - Data Structures:
